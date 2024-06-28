@@ -25,4 +25,5 @@ git commit -m "Primeiro commit"
 # Envie o código para o GitHub
 git push -u origin main
 ```
-+ Testando: `git remote -v`
+
+### Testando: `git remote -v`
